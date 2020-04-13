@@ -1,12 +1,9 @@
 # hap-selfbot-public
 Selfbot de la HAPRAID HAP
 
-
+http://hapraid.com
 
 Besoin de nodejs et de git installé sur votre Windows
-
-Possibilité de lancer sur Android, dans ce cas installez git en utilisant la commande "apt-get install git" et nodejs "apt-get install nodejs" puis "npm i" puis "node index.js"
-
 
 
 
