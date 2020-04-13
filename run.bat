@@ -1,3 +1,0 @@
-npm i
-
-node index
