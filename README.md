@@ -29,9 +29,11 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 ### Installation Linux or Termux (Android)
 Possibilité de lancer sur Android avec l'application Termux <br/>
 dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot)
+```sh
 $ apt-get upgrade
 $ apt-get update
 $ apt-get install git
 $ apt-get install nodejs
 $ npm install
 $ node index.js
+```
