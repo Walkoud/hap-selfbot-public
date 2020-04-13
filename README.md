@@ -5,10 +5,12 @@ Selfbot de la HAPRAID HAP
 
 Besoin de nodejs et de git installé sur votre Windows
 
+Possibilité de lancer sur Android, dans ce cas installez git en utilisant la commande "apt-get install git" et nodejs "apt-get install nodejs" puis "npm i" puis "node index.js"
 
 
 
-### Installation
+
+### Installation Windows
 -Download the zip https://github.com/Walkoud/raidbotdiscord/archive/master.zip <br/>
 Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zip
 
@@ -23,3 +25,7 @@ Téléchargez le zip https://github.com/Walkoud/raidbotdiscord/archive/master.zi
 
 -Pour démarrer le bot, cliquez sur run.bat <br/>
 -Click on run.bat to boot the bot <br/>
+
+### Installation Termux
+Possibilité de lancer sur Android avec l'application Termux
+dans ce cas installez git en utilisant la commande "apt-get install git" et nodejs "apt-get install nodejs" puis "npm i" puis "node index.js"
