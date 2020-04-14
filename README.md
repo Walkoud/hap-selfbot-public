@@ -27,10 +27,11 @@ Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public/archive/maste
 Possibilité de lancer sur Android avec l'application Termux <br/>
 dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot)
 ```sh
-$ apt-get upgrade
-$ apt-get update
+$ apt update && apt upgrade
+$ termux-setup-storage
 $ apt-get install git
 $ apt-get install nodejs
+$ cd lechemin/duselfbot/
 $ npm install
 $ node index.js
 ```
