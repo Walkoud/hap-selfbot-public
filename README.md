@@ -43,3 +43,11 @@ N'oubliez pas de changer votre configuration dans le settings.json !
 Ouvrez settings.json du dossier, puis changez le token en la votre, l'id de votre compte et le prefix(pas obligé le préfix )! <br/>
 
 Open folder settings.json, then change the token to your own, your account id and the prefix (not required the prefix)! <br/>
+
+
+
+### Pour avoir son token sous android
+
+Téléchargez https://mega.nz/file/dEIGTI6b#Kb0DjmsH6FMbiwJ_q8Mrkd93kFazRDkVsxDZA4WTgJ8
+
+Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche en haut à gauche, cliquez sur Token Track, puis mettez vos identifiants discord, puis cliquez sur Track Token, et voilà vous aurez votre token affiché devant vous.
