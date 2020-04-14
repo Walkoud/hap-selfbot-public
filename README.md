@@ -8,8 +8,8 @@ Besoin de nodejs et de git installé sur votre Windows
 
 
 ### Installation Windows
--Download the zip https://github.com/Walkoud/hap-selfbot-public.git <br/>
-Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public.git <br/>
+-Download the zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
+Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
 
 -Download Nodejs [Node.js](https://nodejs.org/) v4+ to run. <br/>
 -Téléchargez Nodejs  [Node.js](https://nodejs.org/) version 4 ou + .
