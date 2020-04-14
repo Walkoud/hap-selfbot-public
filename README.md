@@ -35,3 +35,6 @@ $ cd lechemin/duselfbot/
 $ npm install
 $ node index.js
 ```
+### Configuration TOKEN , ID , PREFIX
+
+Ouvrez settings.json du dossier, puis changez le token en la votre, l'id de votre compte et le prefix(pas obligé le préfix)! <br/>
