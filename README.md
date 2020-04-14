@@ -43,9 +43,9 @@ N'oubliez pas de changer votre configuration dans le settings.json !
 
 ### Configuration TOKEN , ID , PREFIX
 
-Ouvrez settings.json du dossier, puis changez le token en la votre, l'id de votre compte et le prefix(pas obligé le préfix )! <br/>
+Ouvrez settings.json du dossier, puis changez le [token](https://youtu.be/2GBOYptubk4) en la votre, l'id de votre compte et le prefix(pas obligé le préfix )! <br/>
 
-Open folder settings.json, then change the token to your own, your account id and the prefix (not required the prefix)! <br/>
+Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4) to your own, your account id and the prefix (not required the prefix)! <br/>
 
 
 
