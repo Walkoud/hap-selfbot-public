@@ -46,8 +46,15 @@ Open folder settings.json, then change the token to your own, your account id an
 
 
 
-### Pour avoir son token sous android
-
+### Pour avoir son token et id sous android
+ 
+ ## Pour le token de votre compte
+ 
 Téléchargez https://mega.nz/file/dEIGTI6b#Kb0DjmsH6FMbiwJ_q8Mrkd93kFazRDkVsxDZA4WTgJ8
 
 Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche en haut à gauche, cliquez sur Token Track, puis mettez vos identifiants discord, puis cliquez sur Track Token, et voilà vous aurez votre token affiché devant vous.
+
+## Pour l'ID de votre compte 
+
+Allez dans l'application discord, puis dans les paramètres, cliquez sur la catégorie "Comportement", puis cochez la case "Mode développeur", <br/>
+Maintenez votre image dans une conversation discord, puis descendez en bas et appuyez sur "Copier l'identifiant"
