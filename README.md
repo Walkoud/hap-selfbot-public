@@ -23,6 +23,9 @@ Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public/archive/maste
 -Pour démarrer le bot, cliquez sur run.bat <br/>
 -Click on run.bat to boot the bot <br/>
 
+N'oubliez pas de changer votre configuration dans le settings.json !<br/>
+Don't forget to change your configuration in settings.json!
+
 ### Installation Linux or Termux (Android)
 Possibilité de lancer sur Android avec l'application Termux <br/>
 dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot)
