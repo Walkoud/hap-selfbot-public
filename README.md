@@ -31,6 +31,7 @@ Possibilité de lancer sur Android avec l'application Termux <br/>
 dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot)
 ```sh
 $ apt update && apt upgrade
+$ termux-setup-storage
 $ apt-get install git
 $ git clone https://github.com/Walkoud/hap-selfbot-public
 $ apt-get install nodejs
