@@ -35,7 +35,6 @@ $ termux-setup-storage
 $ apt-get install git
 $ git clone https://github.com/Walkoud/hap-selfbot-public
 $ apt-get install nodejs
-$ unzip hap-selfbot-public.zip
 $ cd hap-selfbot-public
 $ npm install
 $ node index.js
