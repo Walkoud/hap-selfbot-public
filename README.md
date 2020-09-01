@@ -37,6 +37,7 @@ $ git clone https://github.com/Walkoud/hap-selfbot-public
 $ apt-get install nodejs
 $ cd hap-selfbot-public
 $ npm install
+$ npm install discord.js@11
 $ node index.js
 ```
 N'oubliez pas de changer votre configuration dans le settings.json !
