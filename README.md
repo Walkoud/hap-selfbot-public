@@ -1,7 +1,16 @@
+[![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
 # HΛP SELFBOT PREMIUM 2020
-Selfbot de la HAPRAID HAP
+Selfbot de la HAP
 
-http://hapraid.com
+<p align="center">
+<a href="https://discord.link/hap"><img src="https://img.shields.io/github/watchers/Walkoud/hap-selfbot-public?logoColor=purple&style=social"></a>
+  <a href="https://discord.link/hap"><img src="https://img.shields.io/github/last-commit/Walkoud/hap-selfbot-public"></a>
+<a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
+
+</p>
+
+
+http://discord.link/hap
 
 Besoin de nodejs et de git installé sur votre Windows
 
@@ -63,3 +72,6 @@ Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche e
 
 Allez dans l'application discord, puis dans les paramètres, cliquez sur la catégorie "Comportement", puis cochez la case "Mode développeur", <br/>
 Maintenez votre image dans une conversation discord, puis descendez en bas et appuyez sur "Copier l'identifiant"
+
+
+[![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
