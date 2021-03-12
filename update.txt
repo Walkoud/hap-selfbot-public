@@ -1,0 +1,3 @@
+Fix "loger" to "logger" (message logger in dm)
+
+Nitro sniper : auto claim nitro
