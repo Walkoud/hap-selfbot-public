@@ -1,5 +1,5 @@
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
-# HΛP SELFBOT PREMIUM 2020
+# HΛP SELFBOT PREMIUM 2021
 Selfbot de la HAP
 
 <p align="center">
@@ -58,6 +58,19 @@ Ouvrez settings.json du dossier, puis changez le [token](https://youtu.be/2GBOYp
 
 Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4) to your own, your account id and the prefix (not required the prefix)! <br/>
 
+
+| Key config | Explanation | Default |
+| ------ | ------ | ----- | 
+| token | Your token discord | no |
+| prefix | Prefix of commands | .
+| ID | Your ID DIscord | default (automatic id)
+| status | Your Discord Status (Watching this, playins this) | lofi chill
+| statustype | LISTENING or WATCHING or STREAMING or PLAYING | LISTENING
+| multipresence | Auto change status with multiple text (OFF, ON) | ON
+| multipresencetype | Same of Status Type | WATCHING
+| multipresenceSECONDS | Seconds of interval | 15
+| autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
+| backupprefix | Prefixs of backups commands | ["x!", "!x"]
 
 
 ### Pour avoir son token et id sous android
