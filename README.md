@@ -14,7 +14,7 @@ http://discord.link/hap
 
 Besoin de nodejs et de git installé sur votre Windows
 
-
+##Installation :
 
 ### Installation Windows
 -Download the zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
@@ -51,6 +51,7 @@ $ node index.js
 ```
 N'oubliez pas de changer votre configuration dans le settings.json !
 
+## Configuration :
 
 ### Configuration TOKEN , ID , PREFIX
 
@@ -85,6 +86,18 @@ Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche e
 
 Allez dans l'application discord, puis dans les paramètres, cliquez sur la catégorie "Comportement", puis cochez la case "Mode développeur", <br/>
 Maintenez votre image dans une conversation discord, puis descendez en bas et appuyez sur "Copier l'identifiant"
+
+
+
+## Auto restart when crash :
+
+To restart automaticly when it crash
+Pour redémarrer automatiquement quand ça crash
+
+```sh
+$ npm i pm2
+$ pm2 start index.js
+```
 
 
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
