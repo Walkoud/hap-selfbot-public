@@ -1,3 +1,3 @@
-Fix "loger" to "logger" (message logger in dm)
-
-Nitro sniper : auto claim nitro
+- Fix "loger" to "logger" (message logger in dm)
+- Nitro sniper : auto claim nitro
+- New Backup commands
