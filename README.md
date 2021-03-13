@@ -12,9 +12,16 @@ Selfbot de la HAP
 
 http://discord.link/hap
 
+
+## Screens
+
+![Capture](https://user-images.githubusercontent.com/38588921/111040103-e67abf00-8431-11eb-8d3d-a48535a32077.PNG)
+
 Besoin de nodejs et de git installé sur votre Windows
+
  
 ## Installation :
+
 
 ### Installation Windows
 -Download the zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
