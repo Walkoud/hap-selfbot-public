@@ -62,9 +62,9 @@ N'oubliez pas de changer votre configuration dans le settings.json !
 
 ### Configuration TOKEN , ID , PREFIX
 
-Ouvrez settings.json du dossier, puis changez le [token](https://youtu.be/2GBOYptubk4) en la votre, l'id de votre compte et le prefix(pas obligé le préfix )! <br/>
+Ouvrez settings.json du dossier, puis changez le [token](https://youtu.be/2GBOYptubk4) en la votre et le prefix(pas obligé le préfix )! <br/>
 
-Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4) to your own, your account id and the prefix (not required the prefix)! <br/>
+Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4) to your own and the prefix (not required the prefix)! <br/>
 
 
 | Key config | Explanation | Default |
@@ -81,18 +81,13 @@ Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4)
 | backupprefix | Prefixs of backups commands | ["x!", "!x"]
 
 
-### Pour avoir son token et id sous android
+### Pour avoir son token
  
  ##### Pour le token de votre compte
  
 Téléchargez https://mega.nz/file/dEIGTI6b#Kb0DjmsH6FMbiwJ_q8Mrkd93kFazRDkVsxDZA4WTgJ8
 
 Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche en haut à gauche, cliquez sur Token Track, puis mettez vos identifiants discord, puis cliquez sur Track Token, et voilà vous aurez votre token affiché devant vous.
-
-##### Pour l'ID de votre compte 
-
-Allez dans l'application discord, puis dans les paramètres, cliquez sur la catégorie "Comportement", puis cochez la case "Mode développeur", <br/>
-Maintenez votre image dans une conversation discord, puis descendez en bas et appuyez sur "Copier l'identifiant"
 
 
 
