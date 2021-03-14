@@ -1,8 +1,4 @@
 {
-  "name": "HAP Selbot",
-  "author": "Walkoud",
-  "main": "index.js",
-  "version": "2.0",
   "dependencies": {
     "approximate-number": "^2.0.0",
     "axios": "^0.21.1",
@@ -16,4 +12,3 @@
     "snekfetch": "^4.0.4"
   }
 }
-
