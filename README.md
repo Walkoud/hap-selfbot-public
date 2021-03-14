@@ -62,9 +62,27 @@ N'oubliez pas de changer votre configuration dans le settings.json !
 
 ### Configuration TOKEN , ID , PREFIX
 
-Ouvrez settings.json du dossier, puis changez le [token](https://youtu.be/2GBOYptubk4) en la votre et le prefix(pas obligé le préfix )! <br/>
+Necessary:
+- Vous devez changer obligatoirement votre token
+- You must change your token!
 
-Open folder settings.json, then change the [token](https://youtu.be/2GBOYptubk4) to your own and the prefix (not required the prefix)! <br/>
+Vous pouvez changer la configuration en tapant des commandes! <br/>
+You can change the configuration by typing commands! <br/>
+
+Tapez la commande node index help pour voir la liste des commandes <br/>
+Type the command node index help to see the list of commands <br/>
+
+```sh
+$ node index help
+```
+
+![image](https://user-images.githubusercontent.com/38588921/111067512-f42d5480-84c4-11eb-9a8c-094183ff9d24.png)
+
+Exemple for prefix:  <br/>
+```sh
+$ node index prefix !
+```
+![image](https://user-images.githubusercontent.com/38588921/111067532-19ba5e00-84c5-11eb-94ed-73425381bcd9.png)
 
 
 | Key config | Explanation | Default |
@@ -93,8 +111,8 @@ Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche e
 
 ## Auto restart when crash :
 
-To restart automaticly when it crash
-Pour redémarrer automatiquement quand ça crash
+To restart automaticly when it crash <br/>
+Pour redémarrer automatiquement quand ça crash <br/>
 
 ```sh
 $ npm i pm2
