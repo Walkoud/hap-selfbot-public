@@ -1,1 +1,1 @@
-node index
+start cmd.exe
