@@ -11,7 +11,16 @@ Selfbot de la HAP
 
 
 http://discord.link/hap
-
+## Pages
+- [Installation](#Installation)
+-- [Installation Windows](#InstallationWindows)
+-- [### Installation Linux or Termux (Android)](#InstallationLinux)
+- [Configuration](#Configuration)
+-- [Configuration TOKEN , ID , PREFIX](#ConfigurationTOKENIDPREFIX)
+-- [Configuration Simple](#ConfigurationSimple)
+-- [Presence Configuration](#PresenceConfiguration)
+- [Pour avoir son token](#token)
+- [Auto restart when crash ](#crash)
 
 ## Screens
 
@@ -23,10 +32,10 @@ http://discord.link/hap
 Besoin de nodejs et de git installé sur votre Windows
 
  
-## Installation :
+## Installation : <a id="Installation"></a>
 
 
-### Installation Windows
+### Installation Windows :<a id="InstallationWindows"></a>
 -Download the zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
 Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public/archive/master.zip <br/>
 
@@ -45,7 +54,7 @@ Téléchargez le zip https://github.com/Walkoud/hap-selfbot-public/archive/maste
 N'oubliez pas de changer votre configuration dans le settings.json !<br/>
 Don't forget to change your configuration in settings.json!
 
-### Installation Linux or Termux (Android)
+### Installation Linux or Termux (Android) <a id="InstallationLinux"></a>
 Possibilité de lancer sur Android avec l'application Termux <br/>
 dans ce cas installez git en utilisant les commandes (dans le dossier du selfbot)
 ```sh
@@ -61,9 +70,9 @@ $ node index.js
 ```
 N'oubliez pas de changer votre configuration dans le settings.json !
 
-## Configuration :
+## Configuration : <a id="Configuration"></a>
 
-### Configuration TOKEN , ID , PREFIX
+### Configuration TOKEN , ID , PREFIX <a id="ConfigurationTOKENIDPREFIX"></a>
 
 Necessary:
 - Vous devez changer obligatoirement votre token
@@ -87,7 +96,7 @@ $ node index prefix !
 ```
 ![image](https://user-images.githubusercontent.com/38588921/111067532-19ba5e00-84c5-11eb-94ed-73425381bcd9.png)
 
-
+### Configuration Simple <a id="ConfigurationSimple"></a>
 | Key config | Explanation | Default |
 | ------ | ------ | ----- | 
 | token | Your token discord | no |
@@ -96,7 +105,7 @@ $ node index prefix !
 | autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
 | backupprefix | Prefixs of backups commands | ["x!", "!x"]
 
-
+### Presence Configuration <a id="PresenceConfiguration"></a>
 
 | Presence config | Explanation | Default |
 | ------ | ------ | ----- | 
@@ -119,7 +128,7 @@ $ node index prefix !
 
 
 
-### Pour avoir son token
+### Pour avoir son token <a id="token"></a>
  
  ##### Pour le token de votre compte
  
@@ -129,7 +138,7 @@ Puis installez l'apk, ouvrez l'application, puis appuyez sur la petite flèche e
 
 
 
-## Auto restart when crash :
+## Auto restart when crash : <a id="crash"></a>
 
 To restart automaticly when it crash <br/>
 Pour redémarrer automatiquement quand ça crash <br/>
