@@ -90,13 +90,30 @@ $ node index prefix !
 | token | Your token discord | no |
 | prefix | Prefix of commands | .
 | ID | Your ID DIscord | default (automatic id)
+| autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
+| backupprefix | Prefixs of backups commands | ["x!", "!x"]
+
+
+
+| Presence config | Explanation | Default |
+| ------ | ------ | ----- | 
+| presence | Type of presence : richpresence, normal, multipresence | richpresence |
+||||
 | status | Your Discord Status (Watching this, playins this) | lofi chill
 | statustype | LISTENING or WATCHING or STREAMING or PLAYING | LISTENING
+||||
+| richpresencetype | Type of RichPresence : spotify, STREAMING, LISTENING, WATCHING | STREAMING |
+| richpresenceID | ApplicationID : go to here https://www.reddit.com/r/discordapp/comments/a2c2un/how_to_setup_a_custom_discord_rich_presence_for/ | 805871101179068438 |
+| richpresencedetail | Text of rich presence | HΛP SELFBOT |
+| richpresenceurl | Url of stream status | https://twitch.tv/lofi |
+|richpresenceIMAGEid|Id of image in Developper Application Rich Presence| noname |
+|richpresenceSpotifyLargeImage| Spotify Large Image: you must use images hosted on spotify (album cover / playlist)| spotify:f2ed07272dec9cfc3b6805e9c59eac3391a59bed|
+|richpresenceSpotifySmallImage|Spotify Small Image| spotify:f2ed07272dec9cfc3b6805e9c59eac3391a59bed|
+||||
 | multipresence | Auto change status with multiple text (OFF, ON) | ON
 | multipresencetype | Same of Status Type | WATCHING
 | multipresenceSECONDS | Seconds of interval | 15
-| autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
-| backupprefix | Prefixs of backups commands | ["x!", "!x"]
+
 
 
 ### Pour avoir son token
