@@ -14,7 +14,7 @@ http://discord.link/hap
 ## Pages
 - [Installation](#Installation)
   - [Installation Windows](#InstallationWindows)
-  - [### Installation Linux or Termux (Android)](#InstallationLinux)
+  - [Installation Linux or Termux (Android)](#InstallationLinux)
 - [Configuration](#Configuration)
   - [Configuration TOKEN , ID , PREFIX](#ConfigurationTOKENIDPREFIX)
   - [Configuration Simple](#ConfigurationSimple)
