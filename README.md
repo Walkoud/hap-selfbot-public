@@ -13,12 +13,12 @@ Selfbot de la HAP
 http://discord.link/hap
 ## Pages
 - [Installation](#Installation)
--- [Installation Windows](#InstallationWindows)
--- [### Installation Linux or Termux (Android)](#InstallationLinux)
+- - [Installation Windows](#InstallationWindows)
+- - [### Installation Linux or Termux (Android)](#InstallationLinux)
 - [Configuration](#Configuration)
--- [Configuration TOKEN , ID , PREFIX](#ConfigurationTOKENIDPREFIX)
--- [Configuration Simple](#ConfigurationSimple)
--- [Presence Configuration](#PresenceConfiguration)
+- - [Configuration TOKEN , ID , PREFIX](#ConfigurationTOKENIDPREFIX)
+- - [Configuration Simple](#ConfigurationSimple)
+- - [Presence Configuration](#PresenceConfiguration)
 - [Pour avoir son token](#token)
 - [Auto restart when crash ](#crash)
 
