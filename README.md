@@ -103,6 +103,7 @@ $ node index prefix !
 | prefix | Prefix of commands | .
 | ID | Your ID DIscord | default (automatic id)
 | autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
+| messagelogger | DM message logger when user delete messsage (OFF ON) | ON
 | backupprefix | Prefixs of backups commands | ["x!", "!x"]
 
 ### Presence Configuration <a id="PresenceConfiguration"></a>
