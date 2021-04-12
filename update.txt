@@ -1,4 +1,3 @@
-- Fix "loger" to "logger" (message logger in dm)
-- Nitro sniper : auto claim nitro
-- New Backup commands
-- New commands x!backup PMcreate (create a backup in DM channel)
+- RICH PRESENCE STREAM SPOTIFY ADDED
+- Command .settings added
+- Backup commands fixed
