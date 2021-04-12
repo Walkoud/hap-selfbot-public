@@ -1,21 +1,27 @@
 {
-"token":"YOUR TOKEN",
-"ID":"default",
-"prefix":".",
-
-"status":"lofi chill",
-"statustype":"LISTENING",
-
-"multipresence":"ON",
-"multipresencetype":"WATCHING",
-"multipresenceSECONDS":"15",
-"multipresence1":"the sky",
-"multipresence2":"the stars",
-"multipresence3":"this girl",
-"multipresence4":":(",
-
-
-"autoclaimnitro": "ON",
-
-    "backupprefix": ["x!", "!x"]
+    "token": "YOUR TOKEN",
+    "prefix": ".",
+    "ID": "default",
+    "autoclaimnitro": "ON",
+    "messagelogger": "ON",
+    "backupprefix": [
+        "x!",
+        "!x"
+    ],
+    "presence": "richpresence",
+    "status": "lofi chill",
+    "statustype": "LISTENING",
+    "richpresencetype": "spotify",
+    "richpresenceID": "805871101179068438",
+    "richpresencedetails": "HΛP SELFBOT",
+    "richpresenceurl": "https://twitch.tv/lofi",
+    "richpresenceIMAGEid": "noname",
+    "richpresenceSpotifyLargeImage": "spotify:f2ed07272dec9cfc3b6805e9c59eac3391a59bed",
+    "richpresenceSpotifySmallImage": "spotify:f2ed07272dec9cfc3b6805e9c59eac3391a59bed",
+    "multipresencetype": "WATCHING",
+    "multipresenceSECONDS": "15",
+    "multipresence1": "the sky",
+    "multipresence2": "the stars",
+    "multipresence3": "this girl",
+    "multipresence4": ":("
 }
