@@ -9,6 +9,7 @@ Selfbot de la HAP
 
 </p>
 
+Selfbot with richpresence, backup commands, nitro sniper, and more...
 
 http://discord.link/hap
 ## Pages
