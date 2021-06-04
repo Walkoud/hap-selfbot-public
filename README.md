@@ -146,7 +146,7 @@ To restart automaticly when it crash <br/>
 Pour redémarrer automatiquement quand ça crash <br/>
 
 ```sh
-$ npm i pm2
+$ npm i -g pm2
 $ pm2 start index.js
 ```
 
