@@ -9,7 +9,7 @@ Selfbot de la HAP
 
 </p>
 
-Selfbot with richpresence, backup commands, nitro sniper, and more...
+Selfbot with richpresence, backup commands, nitro sniper, giveaway auto, message logger, and more...
 
 http://discord.link/hap
 ## Pages
@@ -106,6 +106,8 @@ $ node index prefix !
 | autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
 | messagelogger | DM message logger when user delete messsage (OFF ON) | ON
 | backupprefix | Prefixs of backups commands | ["x!", "!x"]
+| giveawayauto | Auto add reaction to participate giveaway (OFF ON) | ON
+| giveawaywebhook | Logs of giveaway, Discord Webhook Link (channel configuration) | nothing
 
 ### Presence Configuration <a id="PresenceConfiguration"></a>
 
