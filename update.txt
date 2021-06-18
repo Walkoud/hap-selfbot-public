@@ -1,3 +1,2 @@
-- RICH PRESENCE STREAM SPOTIFY ADDED
-- Command .settings added
-- Backup commands fixed
+- Help image can be edited
+- Giveaway auto in settings.json
