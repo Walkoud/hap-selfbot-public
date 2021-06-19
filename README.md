@@ -150,6 +150,7 @@ Pour redémarrer automatiquement quand ça crash <br/>
 ```sh
 $ npm i -g pm2
 $ pm2 start index.js
+$ pm2 save
 ```
 
 
