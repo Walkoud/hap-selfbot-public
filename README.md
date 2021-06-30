@@ -153,5 +153,13 @@ $ pm2 start index.js
 $ pm2 save
 ```
 
+To stop <br/>
+Pour stopper  <br/>
+
+```sh
+$ pm2 stop index.js
+$ pm2 delete all
+$ pm2 save
+```
 
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
