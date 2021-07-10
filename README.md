@@ -6,6 +6,8 @@ Selfbot de la HAP
 <a href="https://discord.link/hap"><img src="https://img.shields.io/github/watchers/Walkoud/hap-selfbot-public?logoColor=purple&style=social"></a>
   <a href="https://discord.link/hap"><img src="https://img.shields.io/github/last-commit/Walkoud/hap-selfbot-public"></a>
 <a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
+  ![image](https://user-images.githubusercontent.com/38588921/125161761-6ae11280-e184-11eb-9f79-39035c3177da.png)
+
 
 </p>
 
