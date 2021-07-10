@@ -6,7 +6,7 @@ Selfbot de la HAP
 <a href="https://discord.link/hap"><img src="https://img.shields.io/github/watchers/Walkoud/hap-selfbot-public?logoColor=purple&style=social"></a>
   <a href="https://discord.link/hap"><img src="https://img.shields.io/github/last-commit/Walkoud/hap-selfbot-public"></a>
 <a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
-  ![image](https://user-images.githubusercontent.com/38588921/125161761-6ae11280-e184-11eb-9f79-39035c3177da.png)
+ 
 
 
 </p>
@@ -30,7 +30,7 @@ http://discord.link/hap
 
 ![image](https://user-images.githubusercontent.com/38588921/114311021-4e81fb00-9aed-11eb-878c-f226882d959e.png)
 ![image](https://user-images.githubusercontent.com/38588921/114311037-65285200-9aed-11eb-9e66-f41670fde506.png)
-![Capture](https://user-images.githubusercontent.com/38588921/111040103-e67abf00-8431-11eb-8d3d-a48535a32077.PNG)
+ ![image](https://user-images.githubusercontent.com/38588921/125161761-6ae11280-e184-11eb-9f79-39035c3177da.png)
 
 Besoin de nodejs et de git installé sur votre Windows
 
