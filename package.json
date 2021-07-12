@@ -5,6 +5,7 @@
     "discord.js": "^11.6.4",
     "discord.js-v11-stable": "^1.0.2",
     "djs-commands": "^1.2.2",
+    "figlet": "^1.5.0",
     "fs": "^0.0.1-security",
     "haprpc": "^1.0.3",
     "hastebin-gen": "^2.0.5",
