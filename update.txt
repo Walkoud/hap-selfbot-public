@@ -1,3 +1,5 @@
+- added anticrash
+
 - Translated to english menus
 - Help image can be edited
 - Giveaway auto in settings.json
