@@ -1,6 +1,6 @@
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
 # HΛP SELFBOT PREMIUM 2021
-## ! embed command not work in 2022 !
+## 2023 updated to V3.1
 Selfbot de la HAP
 
 <p align="center">
