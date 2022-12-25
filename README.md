@@ -134,8 +134,8 @@ $ node index prefix !
 | multipresenceSECONDS | Seconds of interval | 15
 
 <br/>
-![https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence)
-[Fourth Example](http://www.fourthexample.com) 
+
+[Link text Here](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence)
 
 ### Pour avoir son token <a id="token"></a>
  
