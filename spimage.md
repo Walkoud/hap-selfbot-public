@@ -7,4 +7,4 @@
 [![Alternate Text]({[image-url](https://imgur.com/a/rWimbEg)})]({[video-url](https://imgur.com/a/rWimbEg)} "Link Title")
 
 
-[![Alternate Text]({https://imgur.com/a/rWimbEg})]({https://imgur.com/a/rWimbEg} "Link Title")
+[![Alternate Text]({https://i.imgur.com/6TBqWFM.png})]({https://imgur.com/a/rWimbEg} "Link Title")
