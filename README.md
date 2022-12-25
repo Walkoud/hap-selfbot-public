@@ -135,7 +135,7 @@ $ node index prefix !
 
 <br/>
 
-[Link text Here](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence)
+[HOW TO CHANGE SPOTIFY IMAGE RICHPRECENSE](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence)
 
 ### Pour avoir son token <a id="token"></a>
  
