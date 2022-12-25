@@ -2,5 +2,5 @@
 
 
 
-[![IMAGE ALT TEXT](https://vimeo.com/784225876)](https://vimeo.com/784225876 "TUTO Vimeo video")
+[![IMAGE ALT TEXT](https://imgur.com/a/rWimbEg)](https://vimeo.com/784225876 "TUTO Vimeo video")
 
