@@ -133,6 +133,8 @@ $ node index prefix !
 | multipresencetype | Same of Status Type | WATCHING
 | multipresenceSECONDS | Seconds of interval | 15
 
+<br/>
+[How to change spotify image in RichPresence](#spimage.md#how-to-change-image-spotify-for-richpresence-)
 
 
 ### Pour avoir son token <a id="token"></a>
