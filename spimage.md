@@ -7,4 +7,4 @@
 # How to change image STREAMING/Twicth for RichPresence ?
 
 
-[![Test](https://imgur.com/slgaiWB)](https://vimeo.com/784368248 "Everything Is AWESOME")
+[![Test](https://i.imgur.com/slgaiWB.png)](https://vimeo.com/784368248 "Everything Is AWESOME")
