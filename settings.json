@@ -8,6 +8,9 @@
         "x!",
         "!x"
     ],
+    
+     "thumbnailcmd": true,
+    
       "helpimage": "https://images-ext-2.discordapp.net/external/Z4yPpKU3UA_RrHreJqSo5Fg5GCANOx9X1o0zWInPjZw/https/66.media.tumblr.com/tumblr_mah88tSVDs1rpurleo1_500.gif",
     "giveawayauto": "ON",
     "giveawaywebhook": "https://discord.com/api/webhooks/xxxxxxxxxxxxxxxx/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
