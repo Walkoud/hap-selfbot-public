@@ -1,6 +1,6 @@
 [![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
 # HΛP SELFBOT PREMIUM 2023
-## 2023 updated to V3.1
+## 2023 updated to V3
 Selfbot de la HAP
 
 <p align="center">
@@ -106,6 +106,7 @@ $ node index prefix !
 | token | Your token discord | no |
 | prefix | Prefix of commands | .
 | ID | Your ID DIscord | default (automatic id)
+| thumbnailcmd | Disable or enable showing image in commands | (true or false)
 | autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
 | messagelogger | DM message logger when user delete messsage (OFF ON) | ON
 | backupprefix | Prefixs of backups commands | ["x!", "!x"]
