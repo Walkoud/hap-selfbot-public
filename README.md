@@ -136,7 +136,7 @@ $ node index prefix !
 
 <br/>
 
-[HOW TO CHANGE SPOTIFY IMAGE RICHPRECENSE](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence)
+[HOW TO CHANGE SPOTIFY IMAGE RICHPRECENSE](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-spotify-for-richpresence) <br/>
 [HOW TO CHANGE TWITCH/STREAMING IMAGE RICHPRECENSE](https://github.com/Walkoud/hap-selfbot-public/blob/master/spimage.md#how-to-change-image-streamingtwicth-for-richpresence-)
 
 
