@@ -12,9 +12,9 @@ You can now download VIDEO YOUTUBE, TIKTOK OR INSTAGRAM : <br><br>
 Selfbot de la HAP
 
 <p align="center">
-<a href="https://discord.link/hap"><img src="https://img.shields.io/github/watchers/Walkoud/hap-selfbot-public?logoColor=purple&style=social"></a>
-  <a href="https://discord.link/hap"><img src="https://img.shields.io/github/last-commit/Walkoud/hap-selfbot-public"></a>
-<a href="https://discord.link/hap"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
+<a href="https://hapraid.carrd.co"><img src="https://img.shields.io/github/watchers/Walkoud/hap-selfbot-public?logoColor=purple&style=social"></a>
+  <a href="https://hapraid.carrd.co"><img src="https://img.shields.io/github/last-commit/Walkoud/hap-selfbot-public"></a>
+<a href="https://hapraid.carrd.co"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
  
 
 
@@ -22,7 +22,7 @@ Selfbot de la HAP
 
 Selfbot with richpresence, backup commands, nitro sniper, giveaway auto, message logger, and more...
 
-http://discord.link/hap
+http://hapraid.carrd.co
 ## Pages
 - [Installation](#Installation)
   - [Installation Windows](#InstallationWindows)
