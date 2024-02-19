@@ -1,6 +1,14 @@
-[![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
-# HΛP SELFBOT PREMIUM 2023
-## 2023 updated to V3
+![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
+# HΛP SELFBOT PREMIUM 2024
+
+## UPDATE 2024 :
+
+You can now download VIDEO YOUTUBE, TIKTOK OR INSTAGRAM : <br><br>
+![OKg5Yy3Mm8](https://github.com/Walkoud/hap-selfbot-public/assets/38588921/25b5463a-0958-4fff-8e31-a5a57042862e)
+![zosvJAIn5B](https://github.com/Walkoud/hap-selfbot-public/assets/38588921/f471c5fb-da47-49b3-a305-9506b42de414)
+
+
+## 2024 updated to V3
 Selfbot de la HAP
 
 <p align="center">
@@ -170,4 +178,4 @@ $ pm2 delete all
 $ pm2 save
 ```
 
-[![aaa](https://i.imgur.com/4M7IWwP.gif)](https://discord.link/hap)
+![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
