@@ -2,8 +2,8 @@
     "token": "YOUR TOKEN",
     "prefix": ".",
     "ID": "default",
-    "autoclaimnitro": "ON",
-    "messagelogger": "ON",
+    "autoclaimnitro": "OFF",
+    "messagelogger": "OFF",
     "backupprefix": [
         "x!",
         "!x"
