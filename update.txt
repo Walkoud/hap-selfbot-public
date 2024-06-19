@@ -1,4 +1,6 @@
 2024:
+- added twitter download video and X
+- fixed tiktok
 - added !download command : download video youtube, instagram, or tiktok link
 !download link.com/isoejgoei
 
