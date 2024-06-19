@@ -3,7 +3,7 @@
 
 ## UPDATE 2024 :
 
-You can now download VIDEO YOUTUBE, TIKTOK OR INSTAGRAM : <br><br>
+You can now download VIDEO YOUTUBE, TIKTOK, INSTAGRAM, TWITTER, X : <br><br>
 ![OKg5Yy3Mm8](https://github.com/Walkoud/hap-selfbot-public/assets/38588921/25b5463a-0958-4fff-8e31-a5a57042862e)
 ![zosvJAIn5B](https://github.com/Walkoud/hap-selfbot-public/assets/38588921/f471c5fb-da47-49b3-a305-9506b42de414)
 
