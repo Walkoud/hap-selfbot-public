@@ -17,7 +17,6 @@ Selfbot de la HAP
 <a href="https://hapraid.carrd.co"><img src="https://img.shields.io/discord/736923536475684974?label=Join%20HΛP&logo=discord&style=flat-square"></a>
  
 
-
 </p>
 
 Selfbot with richpresence, backup commands, nitro sniper, giveaway auto, message logger, and more...
