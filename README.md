@@ -113,6 +113,8 @@ $ node index prefix !
 | token | Your token discord | no |
 | prefix | Prefix of commands | .
 | ID | Your ID DIscord | default (automatic id)
+| autoDownloadMediaURL | Auto download videos (when sending only url) | (true or false)
+| autoCropVideos | Auto crop videos black bars | (true or false)
 | thumbnailcmd | Disable or enable showing image in commands | (true or false)
 | autoclaimnitro | Auto claim when nitro is droped (OFF ON) | ON
 | messagelogger | DM message logger when user delete messsage (OFF ON) | ON
