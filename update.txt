@@ -1,17 +1,15 @@
+!! PLEASE UPDATE !! :
+Delete package-lock.json
+Delete node_modules
+Copy original settings.json in github
+
+
+23/08/24
+- added auto download medias supported link : facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee, threads
+- added autocrop in settings.json
+
 2024:
 - added twitter download video and X
 - fixed tiktok
 - added !download command : download video youtube, instagram, or tiktok link
 !download link.com/isoejgoei
-
-
-2023:
-- disabled embed
-- added settings : thumbnailcmd (show image or not when cmd)
-
-2022:
-- added anticrash
-
-- Translated to english menus
-- Help image can be edited
-- Giveaway auto in settings.json
