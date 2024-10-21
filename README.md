@@ -179,4 +179,11 @@ $ pm2 delete all
 $ pm2 save
 ```
 
+
+## ⚠️ **WARNING**
+>
+> This selfbot violates the Terms of Service (ToS) of most platforms, including Discord. Using this selfbot can result in account suspension or a permanent ban.
+>
+> **I am not responsible for any actions taken against your account**. Use this selfbot at your own risk.
+
 ![Multi_Color_Bar](https://github.com/Walkoud/CS2-Auto-Accept/assets/38588921/3f57ad10-c80c-457a-9f49-679558eb2f79)
