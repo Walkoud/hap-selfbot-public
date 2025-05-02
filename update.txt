@@ -1,8 +1,10 @@
 !! PLEASE UPDATE !! :
 Delete package-lock.json
 Delete node_modules
-Copy original settings.json in github
+Copy original settings.json in GitHub
 
+02/05/25
+Added autoDownloadignoreGuilds in settings.son
 
 23/08/24
 - added auto download medias supported link : facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, capcut, likee, threads
