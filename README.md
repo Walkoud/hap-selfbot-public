@@ -43,6 +43,7 @@ You can now download videos from **YouTube**, **TikTok**, **Instagram**, **Twitt
 - [Auto Restart on Crash](#auto-restart-on-crash)
 - [Available Commands](#available-commands)
 - [⚠️ Warning](#warning)
+- [Support Discord](#supportdiscord)
 
 ---
 
@@ -206,3 +207,9 @@ urlTodownload [options]
 > **This selfbot violates the Terms of Service (ToS) of most platforms, including Discord.**  
 > Using this selfbot may result in account suspension or a permanent ban.  
 > **Use at your own risk.**
+
+
+## Support Discord <a id="supportdiscord"></a>
+
+- https://hapraid.carrd.co/
+- https://discord.me/hapraid
